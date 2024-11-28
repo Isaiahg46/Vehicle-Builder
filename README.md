@@ -29,6 +29,9 @@ Run the program with "npm start" and ensure that it is running properly.
     This project is licensed under the MIT license.
 [MIT](https://opensource.org/licenses/MIT)
 
+## Tutorial Video
+https://drive.google.com/file/d/1HSW9xQfgs70GbNt02Z8coK8PmolFTQYH/view
+
 ## Questions
 [GitHub]https://github.com/isaiahg46
 
